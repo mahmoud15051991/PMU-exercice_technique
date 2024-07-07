@@ -1,0 +1,9 @@
+
+topics:
+  topicCourseName: topicCoursePmuSource1
+
+spring:
+  kafka:
+    bootstraps-servers: localhost:9092
+    producer.key-serializer: org.apache.kafka.common.serialization.StringSerializer
+    producer.valueSerializer: org.springframework.kafka.support.serializer.JsonSerializer

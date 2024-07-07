@@ -1,0 +1,10 @@
+config:
+  driverClassName: org.postgresql.Driver
+  hibernate:
+    dialect: org.hibernate.dialect.PostgreSQLDialect
+    show_sql: true
+  hbm2ddl:
+    auto: update
+spring:
+  jpa:
+    generate-ddl: true

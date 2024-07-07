@@ -1,0 +1,7 @@
+config:
+  url: jdbc:postgresql://localhost:5432/pmu_dev
+  postgres:
+    username: USERNAME
+    password: PASSWORD
+server:
+  port: 9090

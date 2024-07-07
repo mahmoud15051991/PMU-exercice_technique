@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Kafka-processor-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kafka-producer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kafka-producer-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pmu-database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pmu-datamodel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pmu-processor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pmu-producer/src/main/java" charset="UTF-8" />
+  </component>
+</project>
